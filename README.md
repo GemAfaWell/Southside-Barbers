@@ -7,7 +7,9 @@ This is a simple website for a fictional barbershop. It was built using HTML, CS
 
 ## Getting Started
 
-To get started, you can simply clone this repository:
+I built it, but we all need help out here getting started.
+Consider this a fleshed-out salon template.
+If you'd like to use this as a template, you can simply clone this repository:
 
 ```
 git clone <repo url>
