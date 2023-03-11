@@ -2,6 +2,9 @@
 
 This is a simple website for a fictional barbershop. It was built using HTML, CSS, and JavaScript. It is a responsive website that works on mobile, tablet, and desktop devices.
 
+## Screenshots
+![Screenshot of Southside Barbers](./images/screenshot.png)
+
 ## Getting Started
 
 To get started, you can simply clone this repository:
@@ -14,6 +17,7 @@ cd southside-barbers
 ## About
 
 This project was built as part of [Leon Noel's](https://leonnoel.com/) 100Devs course. It was built using HTML, CSS, and JavaScript. It is a responsive website that works on mobile, tablet, and desktop devices.
+
 
 ## Contact
 
